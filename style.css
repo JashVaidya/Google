@@ -5,11 +5,11 @@
     }
     
     #nav {
-        float: left;
+        float: right;
         margin: 0 0 3em 0;
         padding: 0;
         list-style-type: none;
-        margin-left: 1275px;
+        margin-left: 65%;
         white-space: nowrap;
     }
     /* NAV BAR  */
@@ -99,8 +99,8 @@
         text-align: right;
         white-space: nowrap;
         opacity: .75;
-        top: 375px;
-        left: 50px;
+        top: 400px;
+        //left: 50px;
     }
     
     #bot-left a {
@@ -113,7 +113,7 @@
     
     #bot-right li {
         position: relative;
-        float: left;
+        float: right;
         display: inline-block;
         padding: 0 13px;
         line-height: 30px;
@@ -124,8 +124,7 @@
         text-align: right;
         white-space: nowrap;
         opacity: .75;
-        top: 375px;
-        left: 1075px;
+        top: 400px;
     }
     
     #bot-right a {
