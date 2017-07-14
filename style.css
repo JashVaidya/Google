@@ -99,8 +99,7 @@
         text-align: right;
         white-space: nowrap;
         opacity: .75;
-        top: 400px;
-        //left: 50px;
+        margin-top: 32%;
     }
     
     #bot-left a {
@@ -124,7 +123,7 @@
         text-align: right;
         white-space: nowrap;
         opacity: .75;
-        top: 400px;
+        margin-top: 32%;
     }
     
     #bot-right a {
